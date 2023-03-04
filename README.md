@@ -1,6 +1,6 @@
 # React Context API template
 
-This is my template for using React Context API within a web application. This example interacts with a REST api to fetch data.
+This is my template for using React Context API within a web application. This example interacts with a local REST API built in Node/Express to fetch data.
 
 ## Table of contents
 
